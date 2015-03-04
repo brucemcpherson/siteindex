@@ -31,7 +31,7 @@
 		required="true"
 		datatype="string"
 		display_name="image url for activation"
-		default_value="http://googledrive.com/host/0B92ExLh4POiZcEJteERxZFNuVFU"/>
+		default_value="http://googledrive.com/host/0B92ExLh4POiZMmRzSC1QRk5TLXM"/>
 
   <Content type="html"><![CDATA[
 
@@ -88,7 +88,7 @@
             <table>
                 <tr>
                     <td>
-                        <img id="hoverimg" src="https://googledrive.com/host/0B92ExLh4POiZcEJteERxZFNuVFU">
+                        <img id="hoverimg" src="http://googledrive.com/host/0B92ExLh4POiZMmRzSC1QRk5TLXM">
                     </td>
                     <td id="tdtitle" class="feedtitle">
 
